@@ -14,7 +14,7 @@
 - 🛠️ Tech Stack:  
   `HTML` `CSS` `JavaScript` `Git` `VS Code`
 - 🌱 Currently exploring:  
-  `React` `Tailwind CSS` `Node.js`
+  `React` `Tailwind CSS` `Node.js` `Next.js`
 
 ---
 
