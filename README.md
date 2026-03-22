@@ -65,7 +65,7 @@
 
 <hr />
 
-- 🤝 Looking for help in **Open Source Contributi**
+- 🤝 Looking for help in **Open Source Contribution**
 - 🚀 Currently exploring **Agentic AI**
 - 😄 Pronouns: **He/Him**
 
