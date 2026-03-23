@@ -76,8 +76,8 @@
   </div>
 
 <div align="center">
-  <img width="48%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Touhidxol&show_icons=true&theme=dark&include_all_commits=true&count_private=true" />
-  <img width="48%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Touhidxol&layout=compact&langs_count=7&theme=dark" />
+  <img width="48%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Touhidxol&show_icons=true&theme=dark&bg_color=0d1117&include_all_commits=true&count_private=true" />
+  <img width="48%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Touhidxol&layout=compact&langs_count=7&theme=dark&bg_color=0d1117" />
 </div>
 
 
