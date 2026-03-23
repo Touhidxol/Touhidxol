@@ -81,7 +81,7 @@
 </div>
 
 
-[![github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Touhidxol&bg_color=1d1b1c&color=4e9e4c&line=4c9e5d&point=3a9250&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Touhidxol&bg_color=0d1117&color=4e9e4c&line=4c9e5d&point=3a9250&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
     
 
